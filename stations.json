@@ -51,23 +51,23 @@
       {
         "name": "Isaiyaruvi FM",
         "streamUrl": "https://cp1.hostcrate.com/8910/stream",
-		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/tamil/isaiyaruvifm[1].jpg?raw=true"
+		"iconUrl": "https://cp1.hostcrate.com/8910/stream"
 		
       },
 	  {
         "name": "Radio Gilli 106.5 FM",
         "streamUrl": "https://stream1.rcast.net/73058",
-		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/tamil/radiogilli1[1].jpg?raw=true"
+		"iconUrl": "https://radiosindia.com/images/radiogilli123.jpg"
       },
 	  {
         "name": "Isai Tamil FM",
         "streamUrl": "https://cast6.asurahosting.com/proxy/isaitamilfm/stream",
-		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/tamil/isaitamilfm[1].jpg?raw=true"
+		"iconUrl": "https://radiosindia.com/images/isaitamilfm.jpg"
       },
 	  {
         "name": "Muthamil Radio 88.9",
         "streamUrl": "https://ec2.yesstreaming.net:2540/stream",
-		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/tamil/muthamilradio[1].jpg?raw=true"
+		"iconUrl": "https://radiosindia.com/images/muthamilradio.jpg"
       },
 	  {
         "name": "Ilayaraja Radio ",
@@ -82,32 +82,32 @@
 	  {
         "name": "98.3 Radio Mirchi",
         "streamUrl": "https://listen.openstream.co/4543/audio",
-		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/tamil/radiomirchi[1].jpg?raw=true"
+		"iconUrl": "https://radiosindia.com/images/radiomirchi.jpg"
       },
       {
         "name": "Sooriyan FM Srilanka",
         "streamUrl": "https://radio.lotustechnologieslk.net:8006/;stream.mp3",
-		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/tamil/sooryanfm[1].jpg?raw=true"
+		"iconUrl": "https://radiosindia.com/images/sooryanfm.jpg"
       },
 	  {
         "name": "Suryan 93.5 FM",
         "streamUrl": "https://private-stream.ignorelist.com/s?u=http%3A%2F%2Fradios.crabdance.com%3A8002%2F2&sig=94627c05d4865f0b7758bf5cfc6348ce5979c41c7a4606abb79e83ead54a476a",
-		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/tamil/SuriyanFM.png?raw=true"
+		"iconUrl": "https://www.tamilradios.com/img/1LGxjyi_cbs-7pL-m60h3TOedeE=/400x400/smart/filters:format(webp):quality(75)/http://nginx/api/files/84a72210-3e7b-425f-88c8-2902d80e92cc.png"
       },
       {
-        "name": "FM Rainbow 101.4",
+        "name": "Fm Rainbow 101.4",
 		"streamUrl": "https://d1tmej9eu7kw5c.cloudfront.net/b20ff2fc0bb34b3d/b20ff2fc0bb34b3d.m3u8",
-		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/tamil/fmrainbowchennai[1].jpg?raw=true"
+		"iconUrl": "https://radiosindia.com/images/fmrainbow.jpg"
       },
       {
         "name": "89.4 Tamil FM",
         "streamUrl": "https://centova.aarenworld.com/proxy/894tamilfm/stream",
-		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/tamil/tamilfm[1].jpg?raw=true"
+		"iconUrl": "https://radiosindia.com/images/tamilfm.jpg"
       },
       {
         "name": "106.4 Hello FM",
         "streamUrl": "https://listen.openstream.co/4428/audio",
-		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/tamil/hellofm[1].jpg?raw=true"
+		"iconUrl": "https://radiosindia.com/images/hellofm.jpg"
       },
       {
         "name": "98.3 Mirchi Chennai",
@@ -117,7 +117,7 @@
 	  {
         "name": "Theen Tamil",
         "streamUrl": "https://centova71.instainternet.com/proxy/theentamil?mp=/stream",
-		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/tamil/theentamilosai.jpg?raw=true"
+		"iconUrl": "https://centova71.instainternet.com/proxy/theentamil?mp=/stream"
       }
     ]
   },
@@ -162,12 +162,22 @@
 	  {
         "name": "Saranam Ayyappa FM",
         "streamUrl": "https://cast6.asurahosting.com/proxy/saranamayyappa/stream",
-		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/kadavulbhakthi/saranamayyappa.png?raw=true"
+		"iconUrl": "https://www.tamilradios.com/img/a9x4A6AQRgHQTVKMlDm1IqprvA8=/300x300/smart/filters:format(webp):quality(75)/http://nginx/api/files/b11837a0-0305-4c35-9d32-fd1c41beb333.png"
       },
 	  {
-        "name": "Ayngaran Radio",
+        "name": "Ayngaran Radio ",
         "streamUrl": "https://cast6.asurahosting.com/proxy/ayngaranradio/stream",
-		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/kadavulbhakthi/ayngaran.png?raw=true"
+		"iconUrl": "https://www.tamilradios.com/img/BVDTihLNeB58TBoQ5TfiZLxFOtI=/300x300/smart/filters:format(webp):quality(75)/http://nginx/api/files/2fa881c6-71c0-4aa5-9a61-8f2eed890328.png"
+      }
+    ]
+  },
+  {
+    "category": "Gospel Radio",
+    "stations": [
+      {
+        "name": "Thuthi FM online",
+        "streamUrl": "https://streams.radio.co/s790fe269d/listen",
+		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/gospel/thuthifm%5B1%5D.jpg?raw=true?raw=true"
       }
     ]
   }
