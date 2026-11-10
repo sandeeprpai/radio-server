@@ -178,6 +178,11 @@
         "name": "Thuthi FM online",
         "streamUrl": "https://streams.radio.co/s790fe269d/listen",
 		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/gospel/thuthifm%5B1%5D.jpg?raw=true?raw=true"
+      },
+	  {
+        "name": "Kirubai FM",
+        "streamUrl": "https://private-stream.ignorelist.com/s?u=http%3A%2F%2Fs4.voscast.com%3A7110%2F&sig=c43a4b806ca180fda39dc178de9f3b6b2a709372fb00ff60b2f37f1f33915087",
+		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/gospel/Kirubai.jpg?raw=true"
       }
     ]
   }
