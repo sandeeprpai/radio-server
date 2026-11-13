@@ -212,7 +212,7 @@
 	  {
         "name": "Waves of Power",
         "streamUrl": "https://radio.pixelinmedia.com/vallamai",
-		"iconUrl": "https://radiosindia.com/images/healerradio.jpg"
+		"iconUrl": "https://radiosindia.com/images/wavesofpower.jpg"
       },
 	  {
         "name": "Devaprasannam FM Radio",
@@ -223,11 +223,6 @@
         "name": "Arulvakku FM Radio",
         "streamUrl": "https://stream.arulvakku.com/radio/8000/radio.mp3",
 		"iconUrl": "https://radiosindia.com/images/arulvakku.jpg"
-      },
-	  {
-        "name": "Matha FM Radio",
-        "streamUrl": "https://radio.mathatv.in/mathafm",
-		"iconUrl": "https://radiosindia.com/images/mathafm.jpg"
       }
     ]
   }
