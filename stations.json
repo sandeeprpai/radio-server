@@ -188,7 +188,47 @@
         "name": "Tamil Catholic Daily Radio",
         "streamUrl": "https://s9.webradio-hosting.com/proxy/tamilens/stream",
 		"iconUrl": "https://github.com/sandeeprpai/radio-server/blob/main/icons/gospel/tamilcatholicdaily.jpg?raw=true"
-      }
+      },
+	  {
+        "name": "Tamil Bible 24x7",
+        "streamUrl": "https://centova71.instainternet.com/proxy/tamilbible?mp=/stream&1794536912119",
+		"iconUrl": ""
+      },
+	  {
+        "name": "Tamil Christian Radio 24x7",
+        "streamUrl": "https://centova71.instainternet.com/proxy/tamilchristian24x7?mp=/stream&1794537046486",
+		"iconUrl": ""
+      },
+	  {
+        "name": "Tamil Christian Radio 24x7",
+        "streamUrl": "https://centova71.instainternet.com/proxy/tamilchristian24x7?mp=/stream&1794537046486",
+		"iconUrl": ""
+      },
+	  {
+        "name": "Amen FM",
+        "streamUrl": "https://ice7.securenetsystems.net/AMENFM",
+		"iconUrl": "https://amenfm.com/wp-content/uploads/2024/01/amenfmlogo-white.png"
+      },
+	  {
+        "name": "Healer Radio",
+        "streamUrl": "https://c13.radioboss.fm:8552/healerradio",
+		"iconUrl": "https://radiosindia.com/images/healerradio.jpg"
+      },
+	  {
+        "name": "Waves of Power",
+        "streamUrl": "https://radio.pixelinmedia.com/vallamai",
+		"iconUrl": "https://radiosindia.com/images/healerradio.jpg"
+      },
+	  {
+        "name": "Devaprasannam FM Radio",
+        "streamUrl": "https://devaprasannam-a9media.radioca.st/stream",
+		"iconUrl": "https://radiosindia.com/images/devaprasannam.jpg"
+      },
+	  {
+        "name": "Arulvakku FM Radio",
+        "streamUrl": "https://stream.arulvakku.com/radio/8000/radio.mp3",
+		"iconUrl": "https://radiosindia.com/images/arulvakku.jpg"
+      },
     ]
   }
 ]
